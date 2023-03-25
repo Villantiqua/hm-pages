@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "HoheMesse",
+    "description": "",
+    "home_page_url": "https://villantiqua.github.io/hm-pages",
+    "feed_url": "https://villantiqua.github.io/hm-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Wouter"
+    },
+    "items": [
+        {
+            "id": "https://villantiqua.github.io/hm-pages/test.html",
+            "url": "https://villantiqua.github.io/hm-pages/test.html",
+            "title": "test",
+            "author": {
+                "name": "Wouter"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-25T11:59:51+01:00",
+            "date_modified": "2023-03-25T11:59:51+01:00"
+        }
+    ]
+}
