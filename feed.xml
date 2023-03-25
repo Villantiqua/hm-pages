@@ -3,12 +3,34 @@
     <title>HoheMesse</title>
     <link href="https://villantiqua.github.io/hm-pages/feed.xml" rel="self" />
     <link href="https://villantiqua.github.io/hm-pages" />
-    <updated>2023-03-25T12:12:40+01:00</updated>
+    <updated>2023-03-25T12:19:34+01:00</updated>
     <author>
         <name>Wouter</name>
     </author>
     <id>https://villantiqua.github.io/hm-pages</id>
 
+    <entry>
+        <title>Bachs visitekaartje</title>
+        <author>
+            <name>Wouter</name>
+        </author>
+        <link href="https://villantiqua.github.io/hm-pages/bachs-visitekaartje.html"/>
+        <id>https://villantiqua.github.io/hm-pages/bachs-visitekaartje.html</id>
+
+        <updated>2023-03-25T12:19:34+01:00</updated>
+            <summary>
+                <![CDATA[
+                    De Hohe Messe een door het Hogere geïnspireerde compositie? Kan wel zijn, maar bij de Bachjes moest er ook gewoon brood op de plank. En Sebastian componeerde sowieso het liefst alleen in opdracht. Het eerste deel (Kyrië en Gloria) heeft dan ook een zeer prozaïsche&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>De Hohe Messe een door het Hogere geïnspireerde compositie? Kan wel zijn, maar bij de Bachjes moest er ook gewoon brood op de plank. En Sebastian componeerde sowieso het liefst alleen in opdracht. Het eerste deel (Kyrië en Gloria) heeft dan ook een zeer prozaïsche aanleiding. Keurvorst August de 1<sup>e</sup> was gestorven, begin 1733, en een periode van 5 maanden rouw brak aan, waarin van staatswege geen muziek mocht worden uitgevoerd. “Hmm, twee vliegen in één klap”, moet Bach hebben gedacht. “Ik heb tijd om te componeren, én ik wil in het gevlei komen bij de nieuwe keurvorst, August de 2<sup>e</sup>.” Deze keurvorst was heel handig bekeerd tot het katholieke geloof, zodat hij ook koning van Polen kon worden (maar dan onder de naam August de 3<sup>e</sup>). Het leek Bach prachtig om aan zijn hof in Dresden hofcomponist te worden, beter dan in dat lastige Leipzig, waar hij nu nog woonde, en waar de gemeenteraad hem steeds met allerlei regels lastigviel.</p>
+<p>En zo gebeurde het: het eerste deel van de Hohe Messe is niets anders dan een opportunistisch visitekaartje van een carrière-beluste Bach. Een héél geniaal visitekaartje, dat wel! Of het gevlei het gewenste resultaat had? Ja en nee, maar daarover later.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://villantiqua.github.io/hm-pages/media/posts/4/3_Bachs-Visitekaartje.jpg" alt="De Keurvorst" width="384" height="480" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://villantiqua.github.io/hm-pages/media/posts/4/responsive/3_Bachs-Visitekaartje-xs.jpg 300w ,https://villantiqua.github.io/hm-pages/media/posts/4/responsive/3_Bachs-Visitekaartje-sm.jpg 480w ,https://villantiqua.github.io/hm-pages/media/posts/4/responsive/3_Bachs-Visitekaartje-md.jpg 768w"></figure><em>August de 3<sup>e</sup>, keurvorst van Sachsen en koning van Polen (Wikimedia Commons)</em></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Mijn eerste partituur</title>
         <author>
@@ -53,17 +75,5 @@
 <p>Mijn eerste partituur van de Hohe Messe? Tja, dat is weer een ander verhaal, dat komt later.</p>
             ]]>
         </content>
-    </entry>
-    <entry>
-        <title>test</title>
-        <author>
-            <name>Wouter</name>
-        </author>
-        <link href="https://villantiqua.github.io/hm-pages/test.html"/>
-        <id>https://villantiqua.github.io/hm-pages/test.html</id>
-
-        <updated>2023-03-25T11:59:51+01:00</updated>
-            <summary></summary>
-        <content></content>
     </entry>
 </feed>
