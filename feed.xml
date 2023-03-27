@@ -10,26 +10,6 @@
     <id>https://villantiqua.github.io/hm-pages</id>
 
     <entry>
-        <title>Welkom</title>
-        <author>
-            <name>Wouter</name>
-        </author>
-        <link href="https://villantiqua.github.io/hm-pages/welkom.html"/>
-        <id>https://villantiqua.github.io/hm-pages/welkom.html</id>
-
-        <updated>2023-03-25T14:25:51+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Vanwege Hohe Messe / kokodril blabla
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Vanwege Hohe Messe / kokodril blabla</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Lamento bas</title>
         <author>
             <name>Wouter</name>
