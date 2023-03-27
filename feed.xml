@@ -3,12 +3,32 @@
     <title>HoheMesse</title>
     <link href="https://villantiqua.github.io/hm-pages/feed.xml" rel="self" />
     <link href="https://villantiqua.github.io/hm-pages" />
-    <updated>2023-03-26T17:48:30+02:00</updated>
+    <updated>2023-03-27T12:03:18+02:00</updated>
     <author>
         <name>Wouter</name>
     </author>
     <id>https://villantiqua.github.io/hm-pages</id>
 
+    <entry>
+        <title>Welkom</title>
+        <author>
+            <name>Wouter</name>
+        </author>
+        <link href="https://villantiqua.github.io/hm-pages/welkom.html"/>
+        <id>https://villantiqua.github.io/hm-pages/welkom.html</id>
+
+        <updated>2023-03-27T12:03:18+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Vanwege Hohe Messe / kokodril blabla
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Vanwege Hohe Messe / kokodril blabla</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Lamento bas</title>
         <author>
