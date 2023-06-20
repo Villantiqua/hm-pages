@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://villantiqua.github.io/hm-pages/talig.html",
+            "url": "https://villantiqua.github.io/hm-pages/talig.html",
+            "title": "talig",
+            "summary": "Vertalingen van de tekst van de Hohe Messe zijn voldoende beschikbaar op het internet. Toch leek het mij handig en nuttig de Latijnse en Nederlandse tekst ook op deze website bij de hand te hebben. Zo gezegd, zo gedaan, dacht ik, even een vertaling vinden&hellip;",
+            "content_html": "\n  <p>\n    <br>\n  </p>\n\n  <p>\n    Vertalingen van de tekst van de Hohe Messe zijn voldoende beschikbaar op het internet. Toch leek het mij handig en nuttig de Latijnse en Nederlandse tekst ook op deze website bij de hand te hebben. Zo gezegd, zo gedaan, dacht ik, even een vertaling vinden en hier kopiëren. Dan blijken er toch kleine verschillen te bestaan tussen de onderlinge vertalingen en word ik zodoende gedwongen een keuze te maken. Gebukt onder die verantwoordelijkheid onderscheid ik taalkundige en inhoudelijke gezichtspunten. Taalkundig betekent het schipperen tussen de bekendheid van oude teksten enerzijds en leesbaarheid, en daarmee toegankelijkheid anderzijds. Voorbeelden: ‘Lam Gods’ of ‘Lam van God’, ‘afgedaald of ‘neergedaald’. Keuzes daartussen acht ik ongevaarlijk. Inhoudelijke keuzes echter zijn eng: ‘één heilige algemene en apostolische kerk’ of ‘één heilige, katholieke en apostolische kerk’. Soms raken de taalkundige en inhoudelijke aspecten elkaar: ‘Crucifixus etiam pro nobis’ werd door de ene site vertaald als ‘Gekruisigd, ook voor ons’ en door de andere als ‘Zelfs gekruisigd is hij voor ons’. Kleinere verschillen als deze hebben in het verleden geleid tot kerkscheuringen en erger! Zonder veel bagage en met mijn middelbare schoolkennis van het Latijn heb ik hier en daar een keuze gemaakt, leidend tot onderstaande vertaling, voor het grootste deel\n  </p>\n<div><!DOCTYPE html>\n<html>\n<head>\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<style>\n* {\n  box-sizing: border-box;\n}\n\n/* Create two equal columns that floats next to each other */\n.column {\n  float: left;\n  width: 50%;\n  padding: 10px;\n}\n\n/* Clear floats after the columns */\n.row:after {\n  content: \"\";\n  display: table;\n  clear: both;\n}\n</style>\n</head>\n<body>\n\n<h2>Two Equal Columns</h2>\n\n<div class=\"row\">\n  <div class=\"column\" >\n    <h2>Column 1</h2>\n    <p>1. Kyrie (Koor)\n<br>Kyrie eleison\n<br>\n2. Christe eleison (Aria / Duet S1, S2)\n<br>Christe eleison\n<br>\n3. Kyrie (Koor)\n<br>Kyrie eleison.\n<br>\n4a. Gloria (Koor)\n<br>Gloria in excelsis Deo,\n<br>\n4b. Et in terra pax (Koor)\n<br>et in terra pax\nhominibus bonae voluntatis.\n<br>\n5. Laudamus te (Aria S2)\n<br>Laudamus te, benedicimus te,\nadoramus te, glorificamus te.\n<br>\n6. Gratias (Koor)\n<br>Gratias agimus tibi\npropter magnam gloriam tuam.\n<br>\n7a. Domine Deus (Aria / Duet S, T)\n<br>Domine Deus, Rex coelestis,\nDeus Pater omnipotens.\nDomine Fili unigenite\nJesu Christe altissime.\nDomine Deus, Agnus Dei, Filius Patris.\n<br>\n7b. Qui tollis (Koor)\n<br>Qui tollis peccata mundi,\nmiserere nobis,\nsuscipe deprecationem nostram.\n<br>\n8. Qui sedes (Aria A)\n<br>Qui sedes ad dexteram Patris,\nmiserere nobis.\n<br>\n9a. Quoniam (Aria B)\n<br>Quoniam tu solus sanctus,\ntu solus Dominus,\ntu solus altissimus Jesu Christe.\n<br>\n9b. Cum Sancto Spiritu (Koor)\n<br>Cum Sancto Spiritu\nin gloria Dei Patris, amen.\n</p>\n  </div>\n  <div class=\"column\">\n    <h2>Column 2</h2>\n    <p><br>Heer, ontferm u,\n<br><br>\n<br>Christus, ontferm u,\n<br>\n<br>Heer, ontferm u.\n<br>\n<br>Ere zij God in den hoge,\n<br>\n<br>en vrede op aarde\nvoor mensen van goede wil.\n<br>\n<br>Wij loven u, wij prijzen u,\nwij aanbidden u, wij verheerlijken u.\n<br>\n<br>Wij zeggen u dank\nvoor uw grote heerlijkheid.\n<br>\n<br>Heer God, Koning van de hemel,\nGod, almachtige Vader.\nHeer, eniggeboren Zoon,\nJezus Christus, allerhoogste.\nHeer God, Lam van God, Zoon van de Vader.\n<br>\n<br>U die de zonden van de wereld draagt,\nontferm u over ons,\naanvaard onze smeekbede.\n<br>\n<br>U die zit aan de rechterhand van de Vader,\nontferm u over ons.\n<br>\n<br>Want u alleen bent heilig,\nu alleen bent de Heer,\nu alleen bent de hoogste, Jezus Christus.\n<br>\n<br>Met de Heilige Geest\ntot eer van God de Vader, amen.\n</p>\n  </div>\n</div>\n\n</body>\n</html>\n</div>",
+            "author": {
+                "name": "Wouter"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-06-20T14:53:19+02:00",
+            "date_modified": "2023-06-20T15:20:24+02:00"
+        },
+        {
             "id": "https://villantiqua.github.io/hm-pages/vertaling.html",
             "url": "https://villantiqua.github.io/hm-pages/vertaling.html",
             "title": "Vertaling",
@@ -152,22 +166,6 @@
             ],
             "date_published": "2023-03-25T12:19:34+01:00",
             "date_modified": "2023-04-01T16:39:34+02:00"
-        },
-        {
-            "id": "https://villantiqua.github.io/hm-pages/mijn-eerste-partituur.html",
-            "url": "https://villantiqua.github.io/hm-pages/mijn-eerste-partituur.html",
-            "title": "Mijn eerste partituur",
-            "summary": "Natuurlijk had ik als Bachfanaat al vroeg kennis gemaakt met de muziek van de Hohe Messe. De doorwrochtheid, rijke instrumentatie, afwisseling in stijlen en de lengte maakten een enorme indruk op mij. Ik luisterde vaak naar de uitvoering van Karl Richter en kende de muziek&hellip;",
-            "content_html": "<p>Natuurlijk had ik als Bachfanaat al vroeg kennis gemaakt met de <em>muziek</em> van de Hohe Messe. De doorwrochtheid, rijke instrumentatie, afwisseling in stijlen en de lengte maakten een enorme indruk op mij. Ik luisterde vaak naar de uitvoering van <a href=\"https://villantiqua.github.io/hm-pages/mijn-eerste-lp-van-de-hohe-messe.html\">Karl Richter</a> en kende de muziek daardoor goed. Iets heel anders dan het kennen van de muziek is het kennis nemen van de <em>noten</em>; de partituur. Die mogelijkheid deed zich onverwacht voor toen ik samen met flat- en studievriend B. Heidelberg bezocht. Wij waren in de zomer van 1981 wildkampeerders in het Odenwald, bezochten Heidelberg en ik liep daar tegen een bladmuziekwinkel aan. Daar moet je natuurlijk altijd naar binnen gaan. Daar en toen heb ik de partituur van Bachs Hohe Messe gekocht.</p>\n<figure class=\"post__image post__image--center\" ><img loading=\"lazy\" src=\"https://villantiqua.github.io/hm-pages/media/posts/3/2_Mijn-eerste-partituur.JPG\" alt=\"partituur Hohe Messe\" width=\"2236\" height=\"1767\" sizes=\"(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)\" srcset=\"https://villantiqua.github.io/hm-pages/media/posts/3/responsive/2_Mijn-eerste-partituur-xs.JPG 300w ,https://villantiqua.github.io/hm-pages/media/posts/3/responsive/2_Mijn-eerste-partituur-sm.JPG 480w ,https://villantiqua.github.io/hm-pages/media/posts/3/responsive/2_Mijn-eerste-partituur-md.JPG 768w\">\n<figcaption ><em>Titelpagina van mijn eerste partituur</em></figcaption>\n</figure>\n<p>Ik weet nog goed dat ik aan het einde van de dag, gezeten voor ons piramidetentje op het vlakke stukje gras bij een zendmast aan een bosrand de noten begon te lezen. En nog beter herinner ik mij de spirituele én ontnuchterende ervaring die ik tegelijk ervoer. Ja, inderdaad, dát was het thema van het Kyrie, en zó begon het Gloria. In de stilte van de natuur hoorde ik in mijn hoofd de muziek. En gelijktijdig was er een gevoel van teleurstelling, van ontheiliging: al dat geweldig grootse, al die muziek was gewoon te vangen in een handvol muzieknoten, genoteerd en vastgelegd. Dat dubbele gevoel ben ik nooit meer kwijtgeraakt; als ik voor het eerst de noten lees van een stuk, waarvan ik de muziek al ken, lijkt er iets te verdwijnen van de magie van de muziek zelf. En dat begon in 1981 met de partituur van de Hohe Messe.</p>",
-            "image": "https://villantiqua.github.io/hm-pages/media/posts/3/abtenau_06_375.JPG",
-            "author": {
-                "name": "Wouter"
-            },
-            "tags": [
-                   "Blog"
-            ],
-            "date_published": "2023-03-25T12:12:40+01:00",
-            "date_modified": "2023-04-01T16:39:13+02:00"
         }
     ]
 }

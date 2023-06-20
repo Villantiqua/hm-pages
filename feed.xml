@@ -3,12 +3,165 @@
     <title>Hohe Messe</title>
     <link href="https://villantiqua.github.io/hm-pages/feed.xml" rel="self" />
     <link href="https://villantiqua.github.io/hm-pages" />
-    <updated>2023-06-20T14:37:42+02:00</updated>
+    <updated>2023-06-20T15:20:24+02:00</updated>
     <author>
         <name>Wouter</name>
     </author>
     <id>https://villantiqua.github.io/hm-pages</id>
 
+    <entry>
+        <title>talig</title>
+        <author>
+            <name>Wouter</name>
+        </author>
+        <link href="https://villantiqua.github.io/hm-pages/talig.html"/>
+        <id>https://villantiqua.github.io/hm-pages/talig.html</id>
+
+        <updated>2023-06-20T15:20:24+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Vertalingen van de tekst van de Hohe Messe zijn voldoende beschikbaar op het internet. Toch leek het mij handig en nuttig de Latijnse en Nederlandse tekst ook op deze website bij de hand te hebben. Zo gezegd, zo gedaan, dacht ik, even een vertaling vinden&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    <br>
+  </p>
+
+  <p>
+    Vertalingen van de tekst van de Hohe Messe zijn voldoende beschikbaar op het internet. Toch leek het mij handig en nuttig de Latijnse en Nederlandse tekst ook op deze website bij de hand te hebben. Zo gezegd, zo gedaan, dacht ik, even een vertaling vinden en hier kopiëren. Dan blijken er toch kleine verschillen te bestaan tussen de onderlinge vertalingen en word ik zodoende gedwongen een keuze te maken. Gebukt onder die verantwoordelijkheid onderscheid ik taalkundige en inhoudelijke gezichtspunten. Taalkundig betekent het schipperen tussen de bekendheid van oude teksten enerzijds en leesbaarheid, en daarmee toegankelijkheid anderzijds. Voorbeelden: ‘Lam Gods’ of ‘Lam van God’, ‘afgedaald of ‘neergedaald’. Keuzes daartussen acht ik ongevaarlijk. Inhoudelijke keuzes echter zijn eng: ‘één heilige algemene en apostolische kerk’ of ‘één heilige, katholieke en apostolische kerk’. Soms raken de taalkundige en inhoudelijke aspecten elkaar: ‘Crucifixus etiam pro nobis’ werd door de ene site vertaald als ‘Gekruisigd, ook voor ons’ en door de andere als ‘Zelfs gekruisigd is hij voor ons’. Kleinere verschillen als deze hebben in het verleden geleid tot kerkscheuringen en erger! Zonder veel bagage en met mijn middelbare schoolkennis van het Latijn heb ik hier en daar een keuze gemaakt, leidend tot onderstaande vertaling, voor het grootste deel
+  </p>
+<div><!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<h2>Two Equal Columns</h2>
+
+<div class="row">
+  <div class="column" >
+    <h2>Column 1</h2>
+    <p>1. Kyrie (Koor)
+<br>Kyrie eleison
+<br>
+2. Christe eleison (Aria / Duet S1, S2)
+<br>Christe eleison
+<br>
+3. Kyrie (Koor)
+<br>Kyrie eleison.
+<br>
+4a. Gloria (Koor)
+<br>Gloria in excelsis Deo,
+<br>
+4b. Et in terra pax (Koor)
+<br>et in terra pax
+hominibus bonae voluntatis.
+<br>
+5. Laudamus te (Aria S2)
+<br>Laudamus te, benedicimus te,
+adoramus te, glorificamus te.
+<br>
+6. Gratias (Koor)
+<br>Gratias agimus tibi
+propter magnam gloriam tuam.
+<br>
+7a. Domine Deus (Aria / Duet S, T)
+<br>Domine Deus, Rex coelestis,
+Deus Pater omnipotens.
+Domine Fili unigenite
+Jesu Christe altissime.
+Domine Deus, Agnus Dei, Filius Patris.
+<br>
+7b. Qui tollis (Koor)
+<br>Qui tollis peccata mundi,
+miserere nobis,
+suscipe deprecationem nostram.
+<br>
+8. Qui sedes (Aria A)
+<br>Qui sedes ad dexteram Patris,
+miserere nobis.
+<br>
+9a. Quoniam (Aria B)
+<br>Quoniam tu solus sanctus,
+tu solus Dominus,
+tu solus altissimus Jesu Christe.
+<br>
+9b. Cum Sancto Spiritu (Koor)
+<br>Cum Sancto Spiritu
+in gloria Dei Patris, amen.
+</p>
+  </div>
+  <div class="column">
+    <h2>Column 2</h2>
+    <p><br>Heer, ontferm u,
+<br><br>
+<br>Christus, ontferm u,
+<br>
+<br>Heer, ontferm u.
+<br>
+<br>Ere zij God in den hoge,
+<br>
+<br>en vrede op aarde
+voor mensen van goede wil.
+<br>
+<br>Wij loven u, wij prijzen u,
+wij aanbidden u, wij verheerlijken u.
+<br>
+<br>Wij zeggen u dank
+voor uw grote heerlijkheid.
+<br>
+<br>Heer God, Koning van de hemel,
+God, almachtige Vader.
+Heer, eniggeboren Zoon,
+Jezus Christus, allerhoogste.
+Heer God, Lam van God, Zoon van de Vader.
+<br>
+<br>U die de zonden van de wereld draagt,
+ontferm u over ons,
+aanvaard onze smeekbede.
+<br>
+<br>U die zit aan de rechterhand van de Vader,
+ontferm u over ons.
+<br>
+<br>Want u alleen bent heilig,
+u alleen bent de Heer,
+u alleen bent de hoogste, Jezus Christus.
+<br>
+<br>Met de Heilige Geest
+tot eer van God de Vader, amen.
+</p>
+  </div>
+</div>
+
+</body>
+</html>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Vertaling</title>
         <author>
@@ -317,34 +470,6 @@
 <figure class="post__image post__image--center" ><img loading="lazy" src="https://villantiqua.github.io/hm-pages/media/posts/4/3_Bachs-Visitekaartje.jpg" alt="De Keurvorst" width="384" height="480" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://villantiqua.github.io/hm-pages/media/posts/4/responsive/3_Bachs-Visitekaartje-xs.jpg 300w ,https://villantiqua.github.io/hm-pages/media/posts/4/responsive/3_Bachs-Visitekaartje-sm.jpg 480w ,https://villantiqua.github.io/hm-pages/media/posts/4/responsive/3_Bachs-Visitekaartje-md.jpg 768w">
 <figcaption ><em>August de 3<sup>e</sup>, keurvorst van Sachsen en koning van Polen (Wikimedia Commons)</em></figcaption>
 </figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Mijn eerste partituur</title>
-        <author>
-            <name>Wouter</name>
-        </author>
-        <link href="https://villantiqua.github.io/hm-pages/mijn-eerste-partituur.html"/>
-        <id>https://villantiqua.github.io/hm-pages/mijn-eerste-partituur.html</id>
-        <media:content url="https://villantiqua.github.io/hm-pages/media/posts/3/abtenau_06_375.JPG" medium="image" />
-            <category term="Blog"/>
-
-        <updated>2023-04-01T16:39:13+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://villantiqua.github.io/hm-pages/media/posts/3/abtenau_06_375.JPG" alt="" />
-                    Natuurlijk had ik als Bachfanaat al vroeg kennis gemaakt met de muziek van de Hohe Messe. De doorwrochtheid, rijke instrumentatie, afwisseling in stijlen en de lengte maakten een enorme indruk op mij. Ik luisterde vaak naar de uitvoering van Karl Richter en kende de muziek&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://villantiqua.github.io/hm-pages/media/posts/3/abtenau_06_375.JPG" class="type:primaryImage" alt="" /></p>
-                <p>Natuurlijk had ik als Bachfanaat al vroeg kennis gemaakt met de <em>muziek</em> van de Hohe Messe. De doorwrochtheid, rijke instrumentatie, afwisseling in stijlen en de lengte maakten een enorme indruk op mij. Ik luisterde vaak naar de uitvoering van <a href="https://villantiqua.github.io/hm-pages/mijn-eerste-lp-van-de-hohe-messe.html">Karl Richter</a> en kende de muziek daardoor goed. Iets heel anders dan het kennen van de muziek is het kennis nemen van de <em>noten</em>; de partituur. Die mogelijkheid deed zich onverwacht voor toen ik samen met flat- en studievriend B. Heidelberg bezocht. Wij waren in de zomer van 1981 wildkampeerders in het Odenwald, bezochten Heidelberg en ik liep daar tegen een bladmuziekwinkel aan. Daar moet je natuurlijk altijd naar binnen gaan. Daar en toen heb ik de partituur van Bachs Hohe Messe gekocht.</p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://villantiqua.github.io/hm-pages/media/posts/3/2_Mijn-eerste-partituur.JPG" alt="partituur Hohe Messe" width="2236" height="1767" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://villantiqua.github.io/hm-pages/media/posts/3/responsive/2_Mijn-eerste-partituur-xs.JPG 300w ,https://villantiqua.github.io/hm-pages/media/posts/3/responsive/2_Mijn-eerste-partituur-sm.JPG 480w ,https://villantiqua.github.io/hm-pages/media/posts/3/responsive/2_Mijn-eerste-partituur-md.JPG 768w">
-<figcaption ><em>Titelpagina van mijn eerste partituur</em></figcaption>
-</figure>
-<p>Ik weet nog goed dat ik aan het einde van de dag, gezeten voor ons piramidetentje op het vlakke stukje gras bij een zendmast aan een bosrand de noten begon te lezen. En nog beter herinner ik mij de spirituele én ontnuchterende ervaring die ik tegelijk ervoer. Ja, inderdaad, dát was het thema van het Kyrie, en zó begon het Gloria. In de stilte van de natuur hoorde ik in mijn hoofd de muziek. En gelijktijdig was er een gevoel van teleurstelling, van ontheiliging: al dat geweldig grootse, al die muziek was gewoon te vangen in een handvol muzieknoten, genoteerd en vastgelegd. Dat dubbele gevoel ben ik nooit meer kwijtgeraakt; als ik voor het eerst de noten lees van een stuk, waarvan ik de muziek al ken, lijkt er iets te verdwijnen van de magie van de muziek zelf. En dat begon in 1981 met de partituur van de Hohe Messe.</p>
             ]]>
         </content>
     </entry>
