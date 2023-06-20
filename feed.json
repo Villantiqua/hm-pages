@@ -14,8 +14,8 @@
             "id": "https://villantiqua.github.io/hm-pages/vertaling.html",
             "url": "https://villantiqua.github.io/hm-pages/vertaling.html",
             "title": "Vertaling",
-            "summary": "Blablabla",
-            "content_html": "<p>Blablabla</p>\n<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://villantiqua.github.io/hm-pages/media/posts/14/16_missa.svg\" alt=\"\" width=\"3969\" height=\"4355\"></figure>",
+            "summary": "Two Equal Columns Column 1 Some text.. Some text..",
+            "content_html": "<h2>Two Equal Columns</h2>\n<div class=\"row\">\n<div class=\"column\" style=\"background-color: #aaa;\">\n<h2>Column 1</h2>\n<p>Some text..</p>\n</div>\n<div class=\"column\" style=\"background-color: #bbb;\">\n<h2>Column 2</h2>\n<p>Some text..</p>\n</div>\n</div>",
             "author": {
                 "name": "Wouter"
             },
@@ -23,7 +23,7 @@
                    "Blog"
             ],
             "date_published": "2023-06-08T16:06:22+02:00",
-            "date_modified": "2023-06-20T10:58:42+02:00"
+            "date_modified": "2023-06-20T14:37:42+02:00"
         },
         {
             "id": "https://villantiqua.github.io/hm-pages/stop-de-persen.html",

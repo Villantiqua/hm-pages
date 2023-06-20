@@ -3,7 +3,7 @@
     <title>Hohe Messe</title>
     <link href="https://villantiqua.github.io/hm-pages/feed.xml" rel="self" />
     <link href="https://villantiqua.github.io/hm-pages" />
-    <updated>2023-06-20T10:58:42+02:00</updated>
+    <updated>2023-06-20T14:37:42+02:00</updated>
     <author>
         <name>Wouter</name>
     </author>
@@ -18,16 +18,25 @@
         <id>https://villantiqua.github.io/hm-pages/vertaling.html</id>
             <category term="Blog"/>
 
-        <updated>2023-06-20T10:58:42+02:00</updated>
+        <updated>2023-06-20T14:37:42+02:00</updated>
             <summary>
                 <![CDATA[
-                    Blablabla
+                    Two Equal Columns Column 1 Some text.. Some text..
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Blablabla</p>
-<figure class="post__image post__image--wide"><img loading="lazy"  src="https://villantiqua.github.io/hm-pages/media/posts/14/16_missa.svg" alt="" width="3969" height="4355"></figure>
+                <h2>Two Equal Columns</h2>
+<div class="row">
+<div class="column" style="background-color: #aaa;">
+<h2>Column 1</h2>
+<p>Some text..</p>
+</div>
+<div class="column" style="background-color: #bbb;">
+<h2>Column 2</h2>
+<p>Some text..</p>
+</div>
+</div>
             ]]>
         </content>
     </entry>
